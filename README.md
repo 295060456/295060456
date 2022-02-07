@@ -2,6 +2,15 @@
 # Hello everyone! this is Jobs 👋
 ## I am a professional iOS Developer.
 
+<style type="text/css">
+.jobs{
+  word-break:break-all;
+  word-wrap:break-word;
+  align="left";
+  height="180em";
+}
+</style>
+
 <br>![avatar](/认清形势放弃幻想.jpg)</br>
 
 <!-- 🎖徽章图标🎖 -->
@@ -89,13 +98,4 @@
   </a>
 </p>
 
-<style type="text/css">
-.jobs{
-  /* width:200px */
-  word-break:break-all;
-  word-wrap:break-word;
-  /* white-space:pre-wrap; */
-  align="left";
-  height="180em";
-}
-</style>
+
