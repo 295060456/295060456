@@ -2,15 +2,6 @@
 # Hello everyone! this is Jobs 👋
 ## I am a professional iOS Developer.
 
-<style type="text/css">
-.jobs{
-  word-break:break-all;
-  word-wrap:break-word;
-  align="left";
-  height="180em";
-}
-</style>
-
 <br>![avatar](/认清形势放弃幻想.jpg)</br>
 
 <!-- 🎖徽章图标🎖 -->
@@ -53,30 +44,30 @@
 <!-- 📈图表📈 -->
 <summary><b>🔎 Github Profile Details</b></summary>
 
-<p align="left" class="jobs">
+<p align="left">
   <!-- 图表①-->
 <img src="https://github-readme-stats.vercel.app/api?username=295060456&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true"/><br />
 </p>
 
-<p align="left" class="jobs">
+<p align="left">
   <!-- 图表②-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=295060456&theme=github_dark"
      alt="295060456"/><br />
 </p>
 
-<p align="left" class="jobs">
+<p align="left">
   <!-- 图表③-->
 <img src="https://github-readme-stats.vercel.app/api?username=295060456&hide_border=true&count_private=true&show_icons=true&theme=radical"
      alt="295060456"/><br />
 </p>
 
-<p align="left" class="jobs">
+<p align="left">
   <!-- 图表④-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=295060456&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical"
      alt="295060456"/><br />
 </p>
 
-<p align="left" class="jobs">
+<p align="left">
   <!-- 图表⑤-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=295060456&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" 
      alt="295060456" /><br />
