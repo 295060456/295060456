@@ -1,4 +1,9 @@
-### Hello everyone! this is Jobs 👋
+<!-- 用 Visual Studio Code 编译 -->
+# Hello everyone! this is Jobs 👋
+## I am a professional iOS Developer.
+
+![avatar](/认清形势放弃幻想.jpg)
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=295060456&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
@@ -22,8 +27,27 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-# ![认清形势放弃幻想](https://github.com/295060456/295060456/blob/main/%E8%AE%A4%E6%B8%85%E5%BD%A2%E5%8A%BF%E6%94%BE%E5%BC%83%E5%B9%BB%E6%83%B3.jpg)
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=295060456&theme=github_dark" alt="295060456" align = "center"/></p>
 
-I am a professional iOS Developer.
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=295060456&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="295060456" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=295060456&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="295060456" align = "center"/></p>
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=295060456&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="295060456" /></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=295060456&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
+<details>    -->
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/295060456"><img src="https://github-profile-trophy.vercel.app/?username=295060456&margin-w=5&theme=radical" alt="295060456" /></a> </p>
+
+<br>
+
+
+
+
 
 
